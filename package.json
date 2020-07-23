@@ -1,0 +1,24 @@
+{
+  "name": "libreview-to-nightscout",
+  "version": "1.0.0",
+  "description": "libreview-to-nightscout =======================",
+  "main": "librelink2nightscout.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liamzebedee/libreview-to-nightscout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liamzebedee/libreview-to-nightscout/issues"
+  },
+  "homepage": "https://github.com/liamzebedee/libreview-to-nightscout#readme",
+  "dependencies": {
+    "luxon": "^1.24.1",
+    "node-fetch": "^2.6.0"
+  }
+}
