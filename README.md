@@ -3,7 +3,7 @@ libreview-to-nightscout
 
 **#WeAreNotWaiting** to OWN our own medical data. 
 
-This uploads data from LibreView's exported CSV to a NightScout instance.
+This uploads data from LibreView's exported CSV to a NightScout instance. See screenshots on [this Twitter thread](https://twitter.com/liamzebedee/status/1286177553552556033)
 
 ## Usage
 
